@@ -66,7 +66,7 @@ My work spans three domains:
 
 <br>
 
-<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4azcwY3MzM21haGo0aWdlODMyZ2ZsNm9uY2g5cnBhMDVwNWdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="220" alt="coding animation](https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif)" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4azcwY3MzM21haGo0aWdlODMyZ2ZsNm9uY2g5cnBhMDVwNWdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" />
 
 <br><br>
 
