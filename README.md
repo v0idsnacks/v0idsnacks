@@ -70,11 +70,11 @@ My work spans three domains:
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/aditya-bhardwaj-997120289/" target="_blank">
+<a href="https://www.linkedin.com/in/adityabhardwaj1910/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://www.instagram.com/aditya.19_10/" target="_blank">
+<a href="https://www.instagram.com/chaotix.adi/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
