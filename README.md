@@ -166,57 +166,70 @@ My work spans three domains:
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     TOOLBOX
+     CODING ARENA
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h2>Toolbox</h2>
+<h2>Coding Arena</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-
-</div>
+<p><em>Where algorithms meet ambition — stats pulled live from every platform</em></p>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     CURRENTLY BUILDING
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ── LEETCODE CARD ──────────────────────────────────────────────────────── -->
 
-<div align="center">
+<a href="https://leetcode.com/u/v0idsnacks" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/v0idsnacks?theme=dark&font=Inter&ext=heatmap&border=0" alt="LeetCode Stats" />
+</a>
 
-<h2>Currently Building</h2>
+<br><br>
+
+<!-- ── CODEFORCES & GEEKSFORGEEKS CARDS ───────────────────────────────────── -->
+
+<a href="https://codeforces.com/profile/bhardwaj.aditya1910" target="_blank">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhardwaj.aditya1910&theme=github_dark&disable_animations=false&show_icons=true&border_color=00000000" height="180" alt="Codeforces Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/adityabhar34qd" target="_blank">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=adityabhar34qd&theme=dark" height="180" alt="GeeksforGeeks Stats" />
+</a>
+
+<br><br>
+
+<!-- ── PLATFORM PROFILE BADGES ────────────────────────────────────────────── -->
+
+<a href="https://leetcode.com/u/v0idsnacks" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/aditya19_10" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/bhardwaj.aditya1910" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/adityabhar34qd" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+<br>
+
+<a href="https://www.naukri.com/code360/profile/Solo_Boy_001" target="_blank">
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-F28D1A?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/Tech_Titan_360" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+</a>
+&nbsp;
+<a href="https://atcoder.jp/users/aditya1910" target="_blank">
+  <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white" alt="AtCoder" />
+</a>
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🔭 **Design-driven interfaces** — Exploring the boundary between motion
-design and frontend engineering with GSAP & Framer Motion.
-
-📱 **Mobile-first thinking** — Planning to extend UI craft into mobile
-app development.
-
-</td>
-<td width="50%" valign="top">
-
-🧪 **Local AI experiments** — Running and fine-tuning models on-device,
-building tools that keep data private.
-
-🤝 **Open-source collaboration** — Using Git & GitHub to build in public
-and learn from the community.
-
-</td>
-</tr>
-</table>
 
 <br>
 
