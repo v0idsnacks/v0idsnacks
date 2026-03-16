@@ -185,18 +185,6 @@ My work spans three domains:
 
 <br><br>
 
-<!-- ── CODEFORCES & GEEKSFORGEEKS CARDS ───────────────────────────────────── -->
-
-<a href="https://codeforces.com/profile/bhardwaj.aditya1910" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bhardwaj.aditya1910&theme=github_dark&disable_animations=false&show_icons=true&border_color=00000000" height="180" alt="Codeforces Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/user/adityabhar34qd" target="_blank">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=adityabhar34qd&theme=dark" height="180" alt="GeeksforGeeks Stats" />
-</a>
-
-<br><br>
-
 <!-- ── PLATFORM PROFILE BADGES ────────────────────────────────────────────── -->
 
 <a href="https://leetcode.com/u/v0idsnacks" target="_blank">
