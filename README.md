@@ -52,114 +52,21 @@ should serve the user experience. I sit at the intersection of **high-fidelity
 UI/UX design** and **deep technical implementation**, turning pixel-perfect
 visions into performant, accessible reality.
 
-My work spans three domains:
 
-- **Frontend Craft** — Component-driven interfaces built with React, Next.js,
-  and motion libraries that make interactions feel alive.
-- **Java Systems** — Robust backend and application logic where type safety and
-  architecture matter.
-- **Local AI** — On-device intelligence: running models locally, building
-  privacy-first AI tooling, and bridging ML with real UIs.
+- 🎨 &nbsp;Obsessed with design systems & micro-interactions
+- ⚡ &nbsp;Performance-first frontend engineering
+- ♿ &nbsp;Accessibility as a feature, not an afterthought
+- 🔗 &nbsp;Fluent in both **Figma** and **production code**
 
 </td>
 <td width="40%" align="center" valign="top">
-
 <br>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlndGtlZ2I2enBuZjRvNjhyZTE3end2NXY5NDZwaDM4NzNlYjNjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" />
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlndGtlZ2I2enBuZjRvNjhyZTE3end2NXY5NDZwaDM4NzNlYjNjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sh1iCtJZEdx4PFYy4q/giphy.gif" width="200"/>
 <br><br>
-
 <a href="https://www.linkedin.com/in/adityabhardwaj1910/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-&nbsp;
-<a href="https://www.instagram.com/chaotix.adi/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
 </td>
-</tr>
-</table>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     TECH STACK — THREE PILLARS
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<h2>Tech Stack</h2>
-</div>
-
-<table>
-<tr>
-
-<!-- ── PILLAR 1 : FRONTEND ────────────────────────────────────────────────── -->
-<td width="33%" valign="top" align="center">
-
-<h3>🎨 Frontend</h3>
-
-<p><em>Where design meets the DOM</em></p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="Next.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-<br><br>
-
-`GSAP` · `Framer Motion` · `Figma`
-
-</td>
-
-<!-- ── PILLAR 2 : JAVA ────────────────────────────────────────────────────── -->
-<td width="33%" valign="top" align="center">
-
-<h3>☕ Java</h3>
-
-<p><em>Type-safe systems, built to last</em></p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28" alt="MongoDB" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" />
-
-<br><br>
-
-`OOP` · `Data Structures` · `REST APIs`
-
-</td>
-
-<!-- ── PILLAR 3 : LOCAL AI ────────────────────────────────────────────────── -->
-<td width="33%" valign="top" align="center">
-
-<h3>🧠 Local AI</h3>
-
-<p><em>Intelligence that respects privacy</em></p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" alt="Linux" />
-
-<br><br>
-
-`On-Device Models` · `LLM Tooling` · `RAG`
-
-</td>
-
 </tr>
 </table>
 
@@ -261,6 +168,6 @@ My work spans three domains:
 
 <div align="center">
 
-<sub>Design is not just what it looks like — design is how it works. &nbsp;·&nbsp; Crafted with intention.</sub>
+> *"Design is not just what it looks like — design is how it works. &nbsp;·&nbsp; Crafted with intention..."*
 
 </div>
