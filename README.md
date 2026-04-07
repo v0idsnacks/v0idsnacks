@@ -15,7 +15,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=300&size=18&duration=2500&pause=1200&color=8B949E&center=true&vCenter=true&width=560&height=30&lines=Design-First+Engineer;Crafting+interfaces+that+think+%E2%80%94+not+just+look;Frontend+%C2%B7+Java+%C2%B7+Local+AI" alt="tagline" />
 
-<br><br>
+<br>
 
 <!-- ─── ROLE BADGES ──────────────────────────────────────────────────────── -->
 
@@ -27,11 +27,11 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Local_AI_Explorer-161B22?style=flat-square&logoColor=white" alt="Local AI Explorer" />
 
-<br><br>
+<br>
 
 <!-- ─── PHILOSOPHY ────────────────────────────────────────────────────────── -->
 
-> *"Great software is invisible — the user only sees the experience."*
+> *``Great software is invisible — the user only sees the experience``*
 
 <br>
 
